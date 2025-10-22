@@ -1,6 +1,6 @@
 ### abc421
 
-39min A-D, EF upsolvde 感觉DEF没一个是题的。D是惊天写写写。E这种带概率的dp必须先把式子搞清楚再coding。F卡set的1log, 但是换 fenwick 随便过。 G是个mcmf板子题，之前就做过了。
+39min A-D, EF upsolve 感觉DEF没一个是题的。D是惊天写写写。E这种带概率的dp必须先把式子搞清楚再coding。F卡set的1log, 但是换 fenwick 随便过。 G是个mcmf板子题，之前就做过了。
 
 
 ### abc422
@@ -59,6 +59,7 @@ E感觉写换根是不是写复杂了。
 草，拉一条字典序最大的直径不就行了。就你先找一个最大的直径端点 u，如果某个点不到这个点最远，他一定到 u 对面的另一个端点最远。
 
 shabi
+
 
 
 
