@@ -1,5 +1,8 @@
+### abc419
+45min A-F。吗的，太久没写ac自动机，build怎么改都不知道了。
+
 ### abc420
-abc420 19min A-E。F很难, upsolved。G本来44min的时候就过了，结果干了个大的：vector<i64> ans; for (int i : ans)
+19min A-E。F很难, upsolved。G本来44min的时候就过了，结果干了个大的：vector<i64> ans; for (int i : ans)
 F就是最大子矩形，主要问题是有个二维差分没搞出来。
 
 ### abc421
@@ -63,6 +66,7 @@ E感觉写换根是不是写复杂了。
 草，拉一条字典序最大的直径不就行了。就你先找一个最大的直径端点 u，如果某个点不到这个点最远，他一定到 u 对面的另一个端点最远。
 
 shabi
+
 
 
 
